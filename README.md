@@ -1,1 +1,1 @@
-# kiwisplan
+# kiwic-plan
